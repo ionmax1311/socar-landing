@@ -257,11 +257,11 @@ img {
   border-radius: 14px;
 }
 .img-wrap {
-  height: max-content;
+  height: auto;
   position: relative;
 }
 .right img {
-  height: max-content;
+  height: auto;
   position: relative;
 }
 .row-top {
